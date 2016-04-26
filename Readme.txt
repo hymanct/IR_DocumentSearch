@@ -1,3 +1,5 @@
+The goal of the project is to develop Java classes that can process TREC standard format document collections.
+
 A. Scripts directory:
 1. root folder: src/edu/pitt/sis/infsci2140
 2. HW3Main.java : the main execution class
